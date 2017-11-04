@@ -1,0 +1,14 @@
+.ajborderr{
+    float: right;
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    padding: 2px;
+}
+.ajborderl{
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    padding: 2px;
+}
+.roboto{
+	font-family: 'Roboto Slab', serif;
+}
